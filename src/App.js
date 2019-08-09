@@ -6,7 +6,10 @@ function App() {
   return (
     <div className="App">
       
+
      <h1>Nyt tuli ihan uusi Bränchi</h1>
+
+
     </div>
   );
 }
