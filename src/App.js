@@ -6,7 +6,11 @@ function App() {
   return (
     <div className="App">
       
+<<<<<<< HEAD
      <h1>Hei Vaan! Timo päivitti!</h1>
+=======
+     <h1>Hei Vaan! Veera päivitti</h1>
+>>>>>>> f925801b6d90e75b80c88c8fc6e2d99072be216f
     </div>
   );
 }
